@@ -1,0 +1,35 @@
+
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# C++ build artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.exe~
+*.i*86
+*.x86_64
+*.hex
+*.dSYM/
+
+# Common build folders
+build/
+bin/
+Debug/
+Release/
+
+# Internal project documents
+AGENTS.md
+CONTEXT.md
+STYLE_GUIDE.md
+
+# Course materials
+course_sources/
+
+# Classroom C++ examples
+in_class_examples/
